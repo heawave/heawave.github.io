@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>冲浪里</title>
+  
+  <subtitle>探索美味和美学的无双意境</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.heawave.com/"/>
+  <updated>2019-09-24T03:25:54.000Z</updated>
+  <id>http://www.heawave.com/</id>
+  
+  <author>
+    <name>lwj</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>您好，世界</title>
+    <link href="http://www.heawave.com/title/"/>
+    <id>http://www.heawave.com/title/</id>
+    <published>2019-10-10T07:45:03.000Z</published>
+    <updated>2019-09-24T03:25:54.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;沿着浪花走，我们就能发现大海。 &lt;/p&gt;
+&lt;p&gt;让你从心里感动的事，就一定不会是坏事 ，于是我们创建了&lt;font face=&quot;Microsoft YaHei&quot; size=&quot;2&quot; color=&quot;#FF6666&quot;&gt;「 冲浪里 」&lt;/font&gt;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
