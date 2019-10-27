@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.heawave.com/gallery/index.html</loc>
+    <loc>http://www.heawave.com/title/</loc>
     
-    <lastmod>2019-10-25T03:03:11.956Z</lastmod>
+    <lastmod>2019-10-27T02:26:34.028Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.heawave.com/title/</loc>
+    <loc>http://www.heawave.com/recruit/index.html</loc>
     
-    <lastmod>2019-10-25T02:30:57.957Z</lastmod>
+    <lastmod>2019-10-27T02:17:32.669Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.heawave.com/about/index.html</loc>
+    
+    <lastmod>2019-10-27T02:13:52.051Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.heawave.com/gallery/index.html</loc>
+    
+    <lastmod>2019-10-25T03:03:11.956Z</lastmod>
     
   </url>
   
@@ -26,20 +40,6 @@
     <loc>http://www.heawave.com/baidu_verify_8KTRdg5dgF%E7%9A%84%E5%89%AF%E6%9C%AC.html</loc>
     
     <lastmod>2019-10-12T07:29:46.975Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.heawave.com/about/index.html</loc>
-    
-    <lastmod>2019-10-09T06:20:28.625Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.heawave.com/recruit/index.html</loc>
-    
-    <lastmod>2019-09-23T13:38:48.000Z</lastmod>
     
   </url>
   
