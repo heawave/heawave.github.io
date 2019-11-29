@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.heawave.com/title/</loc>
+    
+    <lastmod>2019-11-29T15:16:55.672Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.heawave.com/service/index.html</loc>
     
     <lastmod>2019-11-29T15:09:25.685Z</lastmod>
@@ -16,13 +23,6 @@
   </url>
   
   <url>
-    <loc>http://www.heawave.com/title/</loc>
-    
-    <lastmod>2019-11-29T14:49:24.068Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://www.heawave.com/about/index.html</loc>
     
     <lastmod>2019-11-29T14:42:51.021Z</lastmod>
@@ -32,7 +32,7 @@
   <url>
     <loc>http://www.heawave.com/gallery/index.html</loc>
     
-    <lastmod>2019-11-01T03:41:33.225Z</lastmod>
+    <lastmod>2019-11-01T03:41:32.000Z</lastmod>
     
   </url>
   
